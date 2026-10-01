@@ -1,16 +1,31 @@
-## Hi there 👋
-nice to meet you
-<!--
-**darafshcode/Darafshcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm DarafshCode 👋
 
-Here are some ideas to get you started:
+I'm currently learning web development from the fundamentals and working toward becoming a professional Full-Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+* HTML
+* CSS
+* JavaScript
+* Web Development fundamentals
+
+## 🎯 Long-Term Goal
+
+To become a professional Full-Stack Developer and build real-world projects with a strong foundation in programming.
+
+## 🧠 My Approach
+
+I focus on understanding programming deeply and building things step by step rather than simply memorizing code.
+
+## 🔗 Find Me
+
+* LinkedIn: https://www.linkedin.com/in/darafshcode 👈most of my activity
+* YouTube: https://www.youtube.com/@darafshcode
+* Instagram: https://www.instagram.com/darafshcode/
+* Aparat: https://www.aparat.com/darafshcode
+* Telegram: https://t.me/darafshcode
+
+---
+
+**DarafshCode** — Learning, Building, Growing. 🚀
+
